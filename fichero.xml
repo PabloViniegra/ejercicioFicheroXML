@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+  <alumno codigo="1">
+    <nombre>Ana</nombre>
+    <edad>20</edad>
+    <direccion>
+      <calle>Madrid</calle>
+      <provincia/>
+    </direccion>
+  </alumno>
+  <alumno codigo="2">
+    <nombre>Pablo</nombre>
+    <edad>24</edad>
+    <direccion>
+      <calle>Madrid</calle>
+      <provincia/>
+    </direccion>
+  </alumno>
+  <alumno codigo="3">
+    <nombre>Fran</nombre>
+    <edad>28</edad>
+    <direccion>
+      <calle>Cuenca</calle>
+      <provincia/>
+    </direccion>
+  </alumno>
+</alumnos>
